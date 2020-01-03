@@ -1,6 +1,9 @@
 # monte-carlo-hospital-sim
-Naive MCMC Simulation of the patient flow through hospital operating rooms to 
-generate a random dataset. __Note that the generated dataset is entirely fabricated__.
+Discrete-even simulation (DES) of the patient flow through hospital operating rooms to 
+generate a random dataset. __Note that the generated dataset is entirely fabricated__. 
+The generated dataset was originally visualized using a particular process visualization
+package (such as ProM or Celonis). Due to the proprietary nature this process mining software, 
+only the discrete-event simulation is contained within this repository.
 
 ### Modelling Patient Arrival Times
 
