@@ -6,7 +6,7 @@ package (such as ProM or Celonis). Due to the proprietary nature this process mi
 only the discrete-event simulation is contained within this repository.
 
 ![Hospital Simulation Outline]
-https://github.com/Kim-Sha/monte-carlo-hospital-sim/blob/master/images/sim_overview.png
+(https://github.com/Kim-Sha/monte-carlo-hospital-sim/blob/master/images/sim_overview.png)
 
 ### Modelling Patient Arrival Times
 
