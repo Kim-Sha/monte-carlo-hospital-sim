@@ -1,9 +1,11 @@
 # monte-carlo-hospital-sim
-Discrete-even simulation (DES) of the patient flow through hospital operating rooms to 
+Discrete-event simulation (DES) of the patient flow through hospital operating rooms to 
 generate a random dataset. __Note that the generated dataset is entirely fabricated__. 
 The generated dataset was originally visualized using a particular process visualization
-package (such as ProM or Celonis). Due to the proprietary nature this process mining software, 
-only the discrete-event simulation is contained within this repository.
+package (similar to ProM or Celonis). Due to the proprietary nature this process mining software, 
+only the discrete-event simulation is contained within this repository. To compensate, the following
+outline of the process is included to aid your understanding in the flow of patients through the
+simulated hospital:
 
 <img src="images/sim_overview.png" width=600 align="middle">
 
