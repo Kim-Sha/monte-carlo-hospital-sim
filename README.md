@@ -5,8 +5,7 @@ The generated dataset was originally visualized using a particular process visua
 package (such as ProM or Celonis). Due to the proprietary nature this process mining software, 
 only the discrete-event simulation is contained within this repository.
 
-![Hospital Simulation Outline]
-(https://github.com/Kim-Sha/monte-carlo-hospital-sim/blob/master/images/sim_overview.png)
+<img src="images/sim_overview.png" width=600 align="middle">
 
 ### Modelling Patient Arrival Times
 
